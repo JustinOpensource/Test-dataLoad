@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="new_field_addition" label="New Field addition" language="en" table="x_544824_testgithu_help_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>new_field_addition</element>
+            <help/>
+            <hint/>
+            <label>New Field addition</label>
+            <language>en</language>
+            <name>x_544824_testgithu_help_request</name>
+            <plural>New Field additions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-13 19:28:11</sys_created_on>
+            <sys_id>a8e3e0d62ff39010db532c6df699b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Field addition</sys_name>
+            <sys_package display_value="TestGitHub" source="x_544824_testgithu">91c0ac522ff39010db532c6df699b6fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TestGitHub">91c0ac522ff39010db532c6df699b6fc</sys_scope>
+            <sys_update_name>sys_documentation_x_544824_testgithu_help_request_new_field_addition_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-13 19:28:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" extends="task" label="Help Request" max_length="40" name="x_544824_testgithu_help_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="New Field addition" max_length="100" name="new_field_addition" type="string"/>
+    </element>
+</database>
